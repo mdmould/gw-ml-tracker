@@ -22,8 +22,11 @@ Living record of machine learning work in gravitational wave astronomy.
 - https://arxiv.org/abs/2011.03564
 - https://arxiv.org/abs/2112.06707
 - https://arxiv.org/abs/2203.03651
-- https://arxiv.org/abs/2303.00508
 
 #### Simulation-based posterior
 
 - https://arxiv.org/abs/2311.12093
+
+#### Merger / detection rate
+
+- https://arxiv.org/abs/2303.00508
