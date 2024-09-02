@@ -2,6 +2,8 @@
 
 Living record of machine learning work in gravitational wave astronomy.
 
+Inspired by https://iphysresearch.github.io/Survey4GWML.
+
 ## Searches
 
 
